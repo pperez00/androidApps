@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Characters</string>
+    <string name="hombre">Man</string>
+    <string name="mujer">Woman</string>
+    <string name="siguiente">Next</string>
+    <string name="pregunta">Is it a man or a woman?</string>
+    <string name="imagen">imagen</string>
+    <string name="respuesta_correcta">Correct</string>
+    <string name="respuesta_incorrecta">Wrong</string>
+    <string name="mensaje">Wrong answer, try again</string>
+</resources>

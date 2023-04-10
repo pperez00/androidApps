@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Personajes</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="pregunta">¿Es un hombre o una mujer?</string>
+    <string name="respuesta_correcta">Correcto</string>
+    <string name="respuesta_incorrecta">Incorrecto</string>
+    <string name="imagen">imagen</string>
+    <string name="mensaje">"Respuesta Incorrecta, vuelva a intentarlo"</string>
+</resources>
